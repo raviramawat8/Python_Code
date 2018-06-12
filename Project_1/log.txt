@@ -1,0 +1,8 @@
+Application Run by user at Fri Jun  8 13:14:34 2018 
+Application Run by user at Fri Jun  8 13:15:44 2018 
+Fri Jun  8 13:15:58 2018 User with acc no 1004 Signed up with Initial Balance = 20000000.0 
+ User_Name = simran 
+ Password =5678 
+Application Run by user at Fri Jun  8 13:15:58 2018 
+Fri Jun  8 13:16:07 2018 User Exited
+ 
